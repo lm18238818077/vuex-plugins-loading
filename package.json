@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lm18238818077/vuex-plugins-loading.git"
+    "url": "https://github.com/lm18238818077/vuex-plugins-loading"
   },
   "keywords": ["vuex","vuex-loading"],
   "author": "cjj",
