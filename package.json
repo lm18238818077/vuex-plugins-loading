@@ -1,0 +1,21 @@
+{
+  "name": "vuex-plugins-load",
+  "version": "1.0.0",
+  "description": "借鉴dva-loading思想",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lm18238818077/vuex-plugins-loading.git"
+  },
+  "keywords": ["vuex","vuex-loading"],
+  "author": "cjj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lm18238818077/vuex-plugins-loading/issues"
+  },
+  "homepage": "https://github.com/lm18238818077/vuex-plugins-loading#readme"
+}
