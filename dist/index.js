@@ -1,7 +1,5 @@
 'use strict';
 
-Object.defineProperty(exports, '__esModule', { value: true });
-
 function ownKeys(object, enumerableOnly) {
   var keys = Object.keys(object);
 
@@ -115,4 +113,6 @@ var createLoadingPlugin = function createLoadingPlugin() {
   };
 };
 
-exports.Loading = createLoadingPlugin;
+// export { default as Toast } from './Toast';
+
+module.exports = createLoadingPlugin;

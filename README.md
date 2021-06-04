@@ -1,9 +1,9 @@
-# vuex-plugins-loading
+# vuex-plugins-load
 
 A loading plugin like dva-loading
 
 ```
-import createLoadingPlugin from 'vuex-plugins-loading'
+import createLoadingPlugin from 'vuex-plugins-load'
 
 const store = new Vuex.Store({
   plugins: [createLoadingPlugin()]

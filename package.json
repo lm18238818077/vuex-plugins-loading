@@ -1,6 +1,6 @@
 {
   "name": "vuex-plugins-load",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "借鉴dva-loading思想",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",

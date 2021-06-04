@@ -111,4 +111,6 @@ var createLoadingPlugin = function createLoadingPlugin() {
   };
 };
 
-export { createLoadingPlugin as Loading };
+// export { default as Toast } from './Toast';
+
+export default createLoadingPlugin;
